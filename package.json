@@ -8,9 +8,7 @@
   "author": "",
   "license": "ISC",
   "description": "aa",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/shotaro427/how-to-npm.git"
