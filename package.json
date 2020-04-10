@@ -7,12 +7,17 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "aa",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:shotaro427/how-to-npm.git"
-  }
+    "url": "git+ssh://git@github.com/shotaro427/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shotaro427/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/shotaro427/how-to-npm#readme",
+  "devDependencies": {}
 }
