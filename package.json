@@ -10,5 +10,9 @@
   "description": "",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shotaro427/how-to-npm.git"
   }
 }
